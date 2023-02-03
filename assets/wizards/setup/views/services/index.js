@@ -14,8 +14,6 @@ import apiFetch from '@wordpress/api-fetch';
  * Internal dependencies
  */
 import { withWizardScreen, Wizard, ActionCard, hooks } from '../../../../components/src';
-import ReaderRevenue from './ReaderRevenue';
-import { NewspackNewsletters } from '../../../engagement/views/newsletters';
 import GAMOnboarding from '../../../advertising/components/onboarding';
 import './style.scss';
 
